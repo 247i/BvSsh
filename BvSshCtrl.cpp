@@ -3,7 +3,7 @@
 // - to an instance of the graphical Bitvise SSH Client.
 // This source file showcases how to send these commands from a C/C++ program.
 //
-// Copyright (C) 2013-2024 by Bitvise Limited.
+// Copyright (C) 2013-2026 by Bitvise Limited.
 //
 
 
@@ -104,7 +104,7 @@ int main(int argc, char const* argv[])
 		if (argc != 3)
 		{
 			cout << "Bitvise SSH Client Control Utility" << endl
-				 << "Copyright (C) 2012-2024 by Bitvise Limited" << endl
+				 << "Copyright (C) 2012-2026 by Bitvise Limited" << endl
 				 << endl
 				 << "Usage: BvSshCtrl ProcessID Command" << endl
 				 << endl
